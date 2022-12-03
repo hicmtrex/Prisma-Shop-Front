@@ -8,28 +8,6 @@
   </p>
   
   
-<!-- Badges -->
-<p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE.txt">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template" alt="license" />
-  </a>
-</p>
-   
 <h4>
     <a href="https://type-shop.vercel.app/">View Demo</a>
   <span> · </span>
@@ -72,44 +50,37 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img  alt="React" src="https://res.cloudinary.com/hicm/image/upload/v1656520352/typeshop-1_a1qepy.png" />
+  <img  alt="React" src="./public/images/Prisma_Shop_-_2022-12-03_19.01.19.png" />
 </div>
 
 <div align="center"> 
-<img  alt="React" src="https://res.cloudinary.com/hicm/image/upload/v1656520333/typeshop-2_knzlpc.png" />
+  <img  alt="React" src="./public/images/fqzf.png" />
 </div>
 
 <div align="center"> 
-<img  alt="React" src="https://res.cloudinary.com/hicm/image/upload/v1656520319/typeshop-3_il1xeo.png" />
+  <img  alt="React" src="./public/images/Prisma_Shop_-_2022-12-03_19.03.27.png" />
 </div>
 <!-- TechStack -->
 
 ### :space_invader: Tech Stack
 
 <details>
-  <summary>Client</summary>
+  <summary>Frontend</summary>
   <ul>
     <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">React</a></li>
     <li><a href="https://react-bootstrap.github.io/">React Bootstrap</a></li>
-    <li><a href="https://redux-toolkit.js.org/usage/usage-with-typescript">Redux Toolkit</a></li>
+    <li><a href="https://tanstack.com/query/v4/?from=reactQueryV3&original=https://react-query-v3.tanstack.com/">React Query</a></li>
+    <li><a href="https://zustand-demo.pmnd.rs/">Zustand 🐻</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nodejs.org/en/">Node.js</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
+  <summary>👉 Backend Repo</summary>
+     <ul>
+  <a href="https://github.com/hicmtrex/">prismashop-backend</a>
+     </ul>
+  
 </details>
 
 <!-- Features -->
