@@ -78,7 +78,7 @@
 <details>
   <summary>👉 Backend Repo</summary>
      <ul>
-  <a href="https://github.com/hicmtrex/">prismashop-backend</a>
+  <a href="https://github.com/hicmtrex/Prisma-Shop-Server">prismashop-backend</a>
      </ul>
   
 </details>
