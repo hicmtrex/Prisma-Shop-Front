@@ -87,31 +87,16 @@
 
 ### :dart: Features
 
-- Paypal
-- Google map
-- Content management system
-
-<!-- Color Reference -->
-
-### :art: Color Reference
-
-| Color           | Hex                                                              |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color   | ![#FF6347](https://via.placeholder.com/10/222831?text=+) #FF6347 |
-| Secondary Color | ![#ffffff](https://via.placeholder.com/10/393E46?text=+) #ffffff |
-| Text Color      | ![#222831](https://via.placeholder.com/10/EEEEEE?text=+) #222831 |
-
-<!-- Env Variables -->
+- Stripe payment
+- Authentication
+- Admin Content management system
 
 ### :key: Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`NODE_ENV`
-`JWT_SECRET`
-`MONGODB_URI`
-`PORT`
-`STRIPE_SECRET_KEY`
+`VITE_API_STRIPE`
+`VITE_MODE`
 
 <!-- Getting Started -->
 
@@ -155,7 +140,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://github.com/hicmtrex/TypeShop-Frontend
+  git clone https://github.com/hicmtrex/Prisma-Shop-Front
 ```
 
 Go to the project directory
@@ -187,8 +172,6 @@ Distributed under the License. See LICENSE.txt for more information.
 ## :handshake: Contact
 
 Hicm- [@twitter](https://twitter.com/hicmtrex) - hichembouallegue@gmail.com
-
-Project Link: [https://type-shop.vercel.app/](https://type-shop.vercel.app/)
 
 ## Support
 
