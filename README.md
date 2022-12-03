@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="/Prisma-Emblema.png" alt="logo" width="200" height="auto" />
+  <img src="./public/Prisma-Emblema.png" alt="logo" width="200" height="auto" />
   <h1>Prisma Shop </h1>
   
   <p>
